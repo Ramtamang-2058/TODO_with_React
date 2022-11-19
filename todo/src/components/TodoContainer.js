@@ -18,7 +18,12 @@ class TodoContainer extends React.Component {
             id: 3,
             title:"Delopy it to live server",
             completed:false
-        }
+        },
+            {
+                id:4,
+                title: " Have to learn React and Data Structure with algorithms",
+                completed: true
+            }
         ]
     }
     render(){
